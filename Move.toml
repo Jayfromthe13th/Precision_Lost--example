@@ -1,0 +1,7 @@
+[package]
+name = "simple_defi"
+version = "0.1.0"
+edition = "2024.beta"
+
+[addresses]
+simple_defi = "0x0" 
